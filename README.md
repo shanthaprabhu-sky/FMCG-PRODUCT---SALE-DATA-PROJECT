@@ -3,6 +3,7 @@ SALES DATA PROJECT
 Project Overview :
 This project contains sales-related datasets and Python scripts used for data management and analysis.
 
+
 The project includes:
 - Order data
 - Product master data
@@ -15,10 +16,12 @@ The project includes:
         - `store_table.py`
         - `transaction_table.py`
 
+
   Technologies Used
         - Python
         - Excel (.xls)
         - GitHub
+
   
 This project is created for:
 - Learning data handling
